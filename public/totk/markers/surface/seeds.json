@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Korok",
+    "layers": [
+      {
+        "minZoom": 3,
+        "icon": {
+          "url": "korok2.png",
+          "width": 36,
+          "height": 28
+        },
+        "markers": []
+      },
+      {
+        "minZoom": 3,
+        "icon": {
+          "url": "korok.png",
+          "width": 27,
+          "height": 27
+        },
+        "markers": []
+      }
+    ]
+  }
+]

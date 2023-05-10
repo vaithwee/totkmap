@@ -1,0 +1,695 @@
+[
+  {
+    "name": "Shrine",
+    "source": "summary",
+    "layers": [
+      {
+        "minZoom": 1,
+        "icon": {
+          "url": "shrine.png",
+          "width": 30,
+          "height": 30
+        },
+        "markers": [
+          {
+            "coords": [
+              -3347.77197,
+              1075.276
+            ],
+            "elv": 905.122375,
+            "id": "Dungeon071",
+            "name": "Joku-usin Shrine",
+            "link": "Joku-usin Shrine"
+          },
+          {
+            "coords": [
+              -3339.86011,
+              1376.40796
+            ],
+            "elv": 548.013916,
+            "id": "Dungeon109",
+            "name": "Joku-u Shrine",
+            "link": "Joku-u Shrine"
+          },
+          {
+            "coords": [
+              3050.67505,
+              -2947.91992
+            ],
+            "elv": 1015.87299,
+            "id": "Dungeon043",
+            "name": "Mayaumekis Shrine",
+            "link": "Mayaumekis Shrine"
+          },
+          {
+            "coords": [
+              3431.5061,
+              -3296.0061
+            ],
+            "elv": 1466.74902,
+            "id": "Dungeon105",
+            "name": "Kahatanaum Shrine",
+            "link": "Kahatanaum Shrine"
+          },
+          {
+            "coords": [
+              665.878479,
+              3480.70801
+            ],
+            "elv": 1444.63306,
+            "id": "Dungeon069",
+            "name": "Igoshon Shrine",
+            "link": "Igoshon Shrine"
+          },
+          {
+            "coords": [
+              1483.69702,
+              3670.69995
+            ],
+            "elv": 1276.90002,
+            "id": "Dungeon110",
+            "name": "Natak Shrine",
+            "link": "Natak Shrine"
+          },
+          {
+            "coords": [
+              2166.01611,
+              4505.99707
+            ],
+            "elv": 1274.021,
+            "id": "Dungeon099",
+            "name": "Gikaku Shrine",
+            "link": "Gikaku Shrine"
+          },
+          {
+            "coords": [
+              -1486.95898,
+              -1257.24097
+            ],
+            "elv": 1127.16797,
+            "id": "Dungeon145",
+            "name": "Jinodok Shrine",
+            "link": "Jinodok Shrine"
+          },
+          {
+            "coords": [
+              1202.81604,
+              1881.97205
+            ],
+            "elv": 1370.10303,
+            "id": "Dungeon050",
+            "name": "Kadaunar Shrine",
+            "link": "Kadaunar Shrine"
+          },
+          {
+            "coords": [
+              -2168.89307,
+              1468.61096
+            ],
+            "elv": 704.813171,
+            "id": "Dungeon150",
+            "name": "Ukoojisi Shrine",
+            "link": "Ukoojisi Shrine"
+          },
+          {
+            "coords": [
+              -1782.80701,
+              2350.98999
+            ],
+            "elv": 1594.75598,
+            "id": "Dungeon083",
+            "name": "Yansamin Shrine",
+            "link": "Yansamin Shrine"
+          },
+          {
+            "coords": [
+              -2856.47412,
+              2856.8479
+            ],
+            "elv": 1331.02502,
+            "id": "Dungeon093",
+            "name": "Kumamayn Shrine",
+            "link": "Kumamayn Shrine"
+          },
+          {
+            "coords": [
+              -320.654785,
+              -3546.68188
+            ],
+            "elv": 2083.98706,
+            "id": "Dungeon148",
+            "name": "Mayasiar Shrine",
+            "link": "Mayasiar Shrine"
+          },
+          {
+            "coords": [
+              -2118.70605,
+              -1715.41296
+            ],
+            "elv": 1268.46594,
+            "id": "Dungeon015",
+            "name": "Rakashog Shrine",
+            "link": "Rakashog Shrine"
+          },
+          {
+            "coords": [
+              3406.80688,
+              -1802.01697
+            ],
+            "elv": 1067.90002,
+            "id": "Dungeon151",
+            "name": "Taninoud Shrine",
+            "link": "Taninoud Shrine"
+          },
+          {
+            "coords": [
+              2814.73193,
+              340.393707
+            ],
+            "elv": 1939.90002,
+            "id": "Dungeon149",
+            "name": "Mayam Shrine",
+            "link": "Mayam Shrine"
+          },
+          {
+            "coords": [
+              1971.65503,
+              162.467102
+            ],
+            "elv": 877.924988,
+            "id": "Dungeon082",
+            "name": "Simosiwak Shrine",
+            "link": "Simosiwak Shrine"
+          },
+          {
+            "coords": [
+              825.227112,
+              -2401.84399
+            ],
+            "elv": 734.317871,
+            "id": "Dungeon121",
+            "name": "Taunhiy Shrine",
+            "link": "Taunhiy Shrine"
+          },
+          {
+            "coords": [
+              -1208.38403,
+              1758.48901
+            ],
+            "elv": 1042.96497,
+            "id": "Dungeon127",
+            "name": "Josiu Shrine",
+            "link": "Josiu Shrine"
+          },
+          {
+            "coords": [
+              -846.094788,
+              4545.81592
+            ],
+            "elv": 1239.94299,
+            "id": "Dungeon146",
+            "name": "Sihajog Shrine",
+            "link": "Sihajog Shrine"
+          },
+          {
+            "coords": [
+              -947.126282,
+              4613.31396
+            ],
+            "elv": 1908.90002,
+            "id": "Dungeon066",
+            "name": "Mayanas Shrine",
+            "link": "Mayanas Shrine"
+          },
+          {
+            "coords": [
+              2681.52002,
+              -3861.146
+            ],
+            "elv": 821.756714,
+            "id": "Dungeon038",
+            "name": "Ijo-o Shrine",
+            "link": "Ijo-o Shrine"
+          },
+          {
+            "coords": [
+              960.786926,
+              -3596.14697
+            ],
+            "elv": 1817.96899,
+            "id": "Dungeon128",
+            "name": "Ga-ahisas Shrine",
+            "link": "Ga-ahisas Shrine"
+          },
+          {
+            "coords": [
+              467.490204,
+              -3369.64502
+            ],
+            "elv": 1814.48206,
+            "id": "Dungeon117",
+            "name": "Ganos Shrine",
+            "link": "Ganos Shrine"
+          },
+          {
+            "coords": [
+              534.321411,
+              2915.87695
+            ],
+            "elv": 1070.28101,
+            "id": "Dungeon045",
+            "name": "Jirutagumac Shrine",
+            "link": "Jirutagumac Shrine"
+          },
+          {
+            "coords": [
+              3535,
+              -970.180725
+            ],
+            "elv": 1130.74597,
+            "id": "Dungeon034",
+            "name": "Tenbez Shrine",
+            "link": "Tenbez Shrine"
+          },
+          {
+            "coords": [
+              -3294.60107,
+              -1795
+            ],
+            "elv": 1130.29395,
+            "id": "Dungeon055",
+            "name": "Siyamotsus Shrine",
+            "link": "Siyamotsus Shrine"
+          },
+          {
+            "coords": [
+              3499.54395,
+              4655
+            ],
+            "elv": 1129.771,
+            "id": "Dungeon052",
+            "name": "Mogisari Shrine",
+            "link": "Mogisari Shrine"
+          },
+          {
+            "coords": [
+              -1661.45398,
+              389.629211
+            ],
+            "elv": 2417.90698,
+            "id": "Dungeon063",
+            "name": "Nachoyah Shrine",
+            "link": "Nachoyah Shrine"
+          },
+          {
+            "coords": [
+              -912.708374,
+              274.906586
+            ],
+            "elv": 1579.28198,
+            "id": "Dungeon060",
+            "name": "Ukouh Shrine",
+            "link": "Ukouh Shrine"
+          },
+          {
+            "coords": [
+              -1503.59802,
+              26.0671806
+            ],
+            "elv": 1527.75,
+            "id": "Dungeon062",
+            "name": "In-isa Shrine",
+            "link": "In-isa Shrine"
+          },
+          {
+            "coords": [
+              -1382.68604,
+              709.130005
+            ],
+            "elv": 1703.65002,
+            "id": "Dungeon061",
+            "name": "Gutanbac Shrine",
+            "link": "Gutanbac Shrine"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Recycle Box",
+    "source": "summary",
+    "layers": [
+      {
+        "minZoom": 5,
+        "icon": {
+          "url": "recycle.png",
+          "width": 36,
+          "height": 36
+        },
+        "markers": [
+          {
+            "coords": [
+              -3331.83594,
+              1104.48096
+            ],
+            "elv": 932.964417,
+            "id": "RBox_Field_K",
+            "name": "Recycle Box",
+            "link": "Recycle Box"
+          },
+          {
+            "coords": [
+              -3239.02393,
+              1390.92102
+            ],
+            "elv": 522.46228,
+            "id": "RBox_Field_J_02",
+            "name": "Recycle Box",
+            "link": "Recycle Box"
+          },
+          {
+            "coords": [
+              636.958679,
+              3430.19995
+            ],
+            "elv": 1421.59998,
+            "id": "RBox_Field_C",
+            "name": "Recycle Box",
+            "link": "Recycle Box"
+          },
+          {
+            "coords": [
+              1542.74402,
+              3755.34302
+            ],
+            "elv": 1262.479,
+            "id": "RBox_Field_L",
+            "name": "Recycle Box",
+            "link": "Recycle Box"
+          },
+          {
+            "coords": [
+              2076.31299,
+              4557.78711
+            ],
+            "elv": 1259.60095,
+            "id": "RBox_Field_Q",
+            "name": "Recycle Box",
+            "link": "Recycle Box"
+          },
+          {
+            "coords": [
+              -1585.25,
+              -1212.88696
+            ],
+            "elv": 1112.427,
+            "id": "RBox_Field_D_02",
+            "name": "Recycle Box",
+            "link": "Recycle Box"
+          },
+          {
+            "coords": [
+              1221.95398,
+              1983.38501
+            ],
+            "elv": 1355.68298,
+            "id": "RBox_Field_F",
+            "name": "Recycle Box",
+            "link": "Recycle Box"
+          },
+          {
+            "coords": [
+              -2151.28003,
+              1344.17297
+            ],
+            "elv": 689.979492,
+            "id": "RBox_Field_J",
+            "name": "Recycle Box",
+            "link": "Recycle Box"
+          },
+          {
+            "coords": [
+              -1718.797,
+              2320.98999
+            ],
+            "elv": 1590.18994,
+            "id": "RBox_Field_T",
+            "name": "Recycle Box",
+            "link": "Recycle Box"
+          },
+          {
+            "coords": [
+              -2958.55688,
+              2851.89404
+            ],
+            "elv": 1316.604,
+            "id": "RBox_Field_K_02",
+            "name": "Recycle Box",
+            "link": "Recycle Box"
+          },
+          {
+            "coords": [
+              -373.696289,
+              -3457.10107
+            ],
+            "elv": 2048.49512,
+            "id": "RBox_Field_I",
+            "name": "Recycle Box",
+            "link": "Recycle Box"
+          },
+          {
+            "coords": [
+              -2019.26196,
+              -1771.54102
+            ],
+            "elv": 1253.479,
+            "id": "RBox_Field_H",
+            "name": "Recycle Box",
+            "link": "Recycle Box"
+          },
+          {
+            "coords": [
+              3371.39404,
+              -1705.07996
+            ],
+            "elv": 1053.479,
+            "id": "RBox_Field_E_02",
+            "name": "Recycle Box",
+            "link": "Recycle Box"
+          },
+          {
+            "coords": [
+              2821.77197,
+              443.356415
+            ],
+            "elv": 1925.479,
+            "id": "RBox_Field_M",
+            "name": "Recycle Box",
+            "link": "Recycle Box"
+          },
+          {
+            "coords": [
+              1981.922,
+              215.118103
+            ],
+            "elv": 859.686523,
+            "id": "RBox_Field_M_02",
+            "name": "Recycle Box",
+            "link": "Recycle Box"
+          },
+          {
+            "coords": [
+              781.661316,
+              -2370.5459
+            ],
+            "elv": 716.079407,
+            "id": "RBox_Field_D",
+            "name": "Recycle Box",
+            "link": "Recycle Box"
+          },
+          {
+            "coords": [
+              -1096.44604,
+              1778.38098
+            ],
+            "elv": 1022.69397,
+            "id": "RBox_Field_R",
+            "name": "Recycle Box",
+            "link": "Recycle Box"
+          },
+          {
+            "coords": [
+              -805.631409,
+              4510.59912
+            ],
+            "elv": 1221.70398,
+            "id": "RBox_Field_G",
+            "name": "Recycle Box",
+            "link": "Recycle Box"
+          },
+          {
+            "coords": [
+              -1029.63098,
+              4675.31299
+            ],
+            "elv": 1894.479,
+            "id": "RBox_Field_N",
+            "name": "Recycle Box",
+            "link": "Recycle Box"
+          },
+          {
+            "coords": [
+              2766.93994,
+              -3803.229
+            ],
+            "elv": 807.336182,
+            "id": "RBox_Field_E",
+            "name": "Recycle Box",
+            "link": "Recycle Box"
+          },
+          {
+            "coords": [
+              393.579987,
+              -3455.31201
+            ],
+            "elv": 1799.55298,
+            "id": "RBox_Field_I_02",
+            "name": "Recycle Box",
+            "link": "Recycle Box"
+          },
+          {
+            "coords": [
+              1066.37598,
+              -3612.14502
+            ],
+            "elv": 1761.08398,
+            "id": "RBox_Field_S",
+            "name": "Recycle Box",
+            "link": "Recycle Box"
+          },
+          {
+            "coords": [
+              502.278412,
+              2915.65698
+            ],
+            "elv": 1055.86096,
+            "id": "RBox_Field_G_02",
+            "name": "Recycle Box",
+            "link": "Recycle Box"
+          },
+          {
+            "coords": [
+              -1686.18506,
+              435.444305
+            ],
+            "elv": 1547.82104,
+            "id": "RBox_Field_A",
+            "name": "Recycle Box",
+            "link": "Recycle Box"
+          },
+          {
+            "coords": [
+              -1259.54004,
+              769.09198
+            ],
+            "elv": 1684.45898,
+            "id": "RBox_Field_B",
+            "name": "Recycle Box",
+            "link": "Recycle Box"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Location",
+    "layers": [
+      {
+        "minZoom": 0,
+        "maxZoom": 1,
+        "markers": [
+          {
+            "coords": [
+              2088.80908,
+              1978.94897
+            ],
+            "elv": 2000,
+            "id": "MapRegion_Eldin_Sky",
+            "name": "Eldin Sky",
+            "link": "Eldin Sky"
+          },
+          {
+            "coords": [
+              -2825.31592,
+              969.328186
+            ],
+            "elv": 1000,
+            "id": "MapRegion_Firone_Sky",
+            "name": "Faron Sky",
+            "link": "Faron Sky"
+          },
+          {
+            "coords": [
+              -2759.06494,
+              -3624.86792
+            ],
+            "elv": 2000,
+            "id": "MapRegion_Gerudo_Sky",
+            "name": "Gerudo Sky",
+            "link": "Gerudo Sky"
+          },
+          {
+            "coords": [
+              -1964.22803,
+              2642.646
+            ],
+            "elv": 2000,
+            "id": "MapRegion_Hateru_Sky",
+            "name": "Necluda Sky",
+            "link": "Necluda Sky"
+          },
+          {
+            "coords": [
+              2442.13599,
+              -3357.823
+            ],
+            "elv": 1000,
+            "id": "MapRegion_Hebura_Sky",
+            "name": "Hebra Sky",
+            "link": "Hebra Sky"
+          },
+          {
+            "coords": [
+              77.9341965,
+              -247.977493
+            ],
+            "elv": 2000,
+            "id": "MapRegion_HyrulePrairie_Sky",
+            "name": "Central Hyrule Sky",
+            "link": "Central Hyrule Sky"
+          },
+          {
+            "coords": [
+              -499.824188,
+              3174.93311
+            ],
+            "elv": 2000,
+            "id": "MapRegion_Lanayru_Sky",
+            "name": "Lanayru Sky",
+            "link": "Lanayru Sky"
+          },
+          {
+            "coords": [
+              2575.97803,
+              3950.05908
+            ],
+            "elv": 2000,
+            "id": "MapRegion_Tamul_Sky",
+            "name": "Akkala Sky",
+            "link": "Akkala Sky"
+          }
+        ]
+      }
+    ]
+  }
+]

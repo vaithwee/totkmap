@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Tower",
+    "source": "summary",
+    "layers": [
+      {
+        "icon": {
+          "url": "tower.png",
+          "width": 30,
+          "height": 30
+        },
+        "markers": []
+      }
+    ]
+  },
+  {
+    "name": "Shrine",
+    "source": "summary",
+    "layers": [
+      {
+        "minZoom": 1,
+        "icon": {
+          "url": "shrine.png",
+          "width": 30,
+          "height": 30
+        },
+        "markers": []
+      }
+    ]
+  },
+  {
+    "name": "Dragon Tear",
+    "source": "summary",
+    "layers": [
+      {
+        "minZoom": 1,
+        "icon": {
+          "url": "tear.png",
+          "width": 31,
+          "height": 36
+        },
+        "markers": []
+      }
+    ]
+  },
+  {
+    "name": "Stable",
+    "source": "summary",
+    "layers": [
+      {
+        "minZoom": 2,
+        "icon": {
+          "url": "stable.png",
+          "width": 29,
+          "height": 29
+        },
+        "markers": []
+      }
+    ]
+  },
+  {
+    "name": "Village",
+    "source": "summary",
+    "layers": [
+      {
+        "minZoom": 1,
+        "maxZoom": 4,
+        "icon": {
+          "url": "village.png",
+          "width": 29,
+          "height": 29
+        },
+        "markers": []
+      }
+    ]
+  },
+  {
+    "name": "Inn",
+    "source": "summary",
+    "layers": [
+      {
+        "minZoom": 5,
+        "icon": {
+          "url": "inn.png",
+          "width": 29,
+          "height": 29
+        },
+        "markers": []
+      }
+    ]
+  },
+  {
+    "name": "General Store",
+    "source": "summary",
+    "layers": [
+      {
+        "minZoom": 5,
+        "icon": {
+          "url": "general.png",
+          "width": 29,
+          "height": 29
+        },
+        "markers": []
+      }
+    ]
+  },
+  {
+    "name": "Armor Shop",
+    "source": "summary",
+    "layers": [
+      {
+        "minZoom": 5,
+        "icon": {
+          "url": "armor.png",
+          "width": 29,
+          "height": 29
+        },
+        "markers": []
+      }
+    ]
+  },
+  {
+    "name": "Jewelry Shop",
+    "source": "summary",
+    "layers": [
+      {
+        "minZoom": 5,
+        "icon": {
+          "url": "jewelry.png",
+          "width": 29,
+          "height": 29
+        },
+        "markers": []
+      }
+    ]
+  },
+  {
+    "name": "Dye Shop",
+    "source": "summary",
+    "layers": [
+      {
+        "minZoom": 5,
+        "icon": {
+          "url": "dye.png",
+          "width": 29,
+          "height": 29
+        },
+        "markers": []
+      }
+    ]
+  },
+  {
+    "name": "Location",
+    "layers": [
+      {
+        "minZoom": 0,
+        "maxZoom": 1,
+        "markers": []
+      }
+    ]
+  }
+]
